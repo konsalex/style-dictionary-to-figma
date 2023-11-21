@@ -2,9 +2,16 @@
 
 ---
 
-To sync Style Dictionary tokens with Figma, there is an API approach, but it's only available for Enterprise accounts 😢 This plugin uses the plugin API to sync the tokens with Figma.
+- [Plugin template](#plugin-template)
+- [How to use](#how-to-use)
+- [Read more](#read-more)
+- [Frequent issues](#frequent-issues)
+- [Contributions](#contributions)
+- [Demo](#demo)
 
-<video src="https://raw.githubusercontent.com/konsalex/style-dictionary-to-figma/blob/main/assets/demo.mp4" autoplay loop muted></video>
+### Plugin template
+
+To sync Style Dictionary tokens with Figma, there is an API approach, but it's only available for Enterprise accounts 😢 This plugin template uses the plugin API to sync the tokens with Figma.
 
 ### How to use
 
@@ -28,3 +35,7 @@ To read more about the plugin template visit this [blog post](https://designsyst
 ### Contributions
 
 Any contributions are welcome 🧑‍💻 
+
+### Demo
+
+https://github.com/konsalex/style-dictionary-to-figma/assets/12672541/750c12d0-cb3d-4825-8c49-cb0a737f818a
