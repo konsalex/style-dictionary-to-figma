@@ -1,0 +1,17 @@
+{
+  "name": "sd-to-figma-plugin",
+  "id": "1298294134281296451",
+  "api": "1.0.0",
+  "main": "plugin/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}

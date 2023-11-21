@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "lib": ["es2016"],
+    "strict": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "typeRoots": [
+      "./node_modules/@types",
+      "./node_modules/@figma"
+    ]
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "plugin"]
+}

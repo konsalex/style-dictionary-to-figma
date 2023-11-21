@@ -1,0 +1,26 @@
+{
+  "name": "sd-to-figma-varss",
+  "version": "0.0.0",
+  "description": "Style Dictionary to Figma Vars",
+  "main": "code.js",
+  "scripts": {
+    "watch": "esbuild src/code.ts --target=es2016 --bundle --outfile='plugin/code.js' --watch",
+    "bundle": "esbuild src/code.ts --target=es2016 --bundle --outfile='plugin/code.js'",
+    "build-tokens": "style-dictionary build -c sd.config.js"
+  },
+  "author": "Costa Alexoglou konsalexee@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.79.0",
+    "@types/lodash": "^4.14.200",
+    "@types/lodash-es": "^4.17.11",
+    "@types/tinycolor2": "^1.4.5",
+    "esbuild": "^0.19.5",
+    "lodash-es": "^4.17.21",
+    "prettier": "^3.0.3",
+    "style-dictionary": "^3.9.0",
+    "tinycolor2": "^1.6.0",
+    "typescript": "*"
+  },
+  "dependencies": {}
+}
