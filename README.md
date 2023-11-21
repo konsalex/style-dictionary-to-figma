@@ -4,7 +4,7 @@
 
 To sync Style Dictionary tokens with Figma, there is an API approach, but it's only available for Enterprise accounts 😢 This plugin uses the plugin API to sync the tokens with Figma.
 
-<video src="https://raw.githubusercontent.com/konsalex/style-dictionary-to-figma/blob/main/assets/demo.mp44" autoplay loop muted></video>
+<video src="https://raw.githubusercontent.com/konsalex/style-dictionary-to-figma/blob/main/assets/demo.mp4" autoplay loop muted></video>
 
 ### How to use
 
